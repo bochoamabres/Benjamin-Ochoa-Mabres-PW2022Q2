@@ -1,0 +1,37 @@
+/* /* etiqueta {propiedad: valor ; }  */
+*{color: red;
+    border:1px solid red}
+/* Llamar a la etiqueta directo  */
+body{background-color: green;}
+
+/* Llamar a una clase */
+.titular{
+    background-color: blue;
+    color:grey;
+    font-size: 50px;
+}
+/* Llamar a un id  */
+#titular3{
+    color:aqua
+}
+/******************/
+.rojo{color:red}
+.borde{border: 1px solid yellow;
+}
+
+#relativa{
+    position: relative;
+    right:100px;
+    top: 100px;px
+}
+#whatsapp{position:fixed;
+bottom:10px;
+right:10px;
+}
+
+#padding-interno{
+    padding: 50px;
+    margin: 10px;
+}
+
+/******************/

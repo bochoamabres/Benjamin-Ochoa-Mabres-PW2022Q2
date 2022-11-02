@@ -1,0 +1,28 @@
+3 formad de integrar css con HTML
+
+1- External, son dos archivos distintos
+2- Interna, se escribe el css en el head
+3- Inline, se escribe en el propio HTML (MALA PRACTICA)
+
+Poner Style.css al costado del index para programar mas facil
+
+Color hexadecimal:
+0 1 2 3 4 5 6 7 8 9 a b c d e f 
+#000000
+00 rojo
+00 verde
+00 azul
+
+#ff000 el rojo mas rojo
+#00ff00 el verde mas verde
+#000ff el azul mas azul
+
+#fff00 amarillo
+
+#00000 negro
+#ffffff blanco
+#000000 negro
+
+el * es un comodin, va a cambiar todo menos en donde este definido que tiene que ser otra cosa (normalizacion minuto: 1:10)
+
+
