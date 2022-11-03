@@ -95,8 +95,3 @@ console.log(EQUIPOS.lastIndexOf("BOKE"))// Muestra el ultimo index
 //splice-slice
 //join-toString
 //indexOf-lastIndexOf-includes
-
-
-
-
-
