@@ -23,17 +23,14 @@ header{
 }
 
 /* Paquetes recomendados*/
-.subtitulo{
+.Paquete-recomendado{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;  
   text-align: center;
-  font-size:30px;;
-  font-style: bold;
-  padding:60px; 
-  color: black;
+  font-size:30px;
+  padding:10px; color:black;
   margin: 50px;
-  background-color: b  ;
 }
 .grid-item{
   display: flex;
@@ -62,14 +59,7 @@ header{
 }
 
 .imagenes{
-  max-height: 450x;
-  max-width:  450px;
-}
-
-.nombre{
-  font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
-  font-size: 10px;
-  font-weight: 600;
+  max-width:  400px;
 }
 
 .botton {
@@ -99,14 +89,6 @@ margin-left: 20px;
 font-size: 60x;
 }
 
-
-#whatsapp{
-  position:fixed;
-  bottom:2vw;
-  right:2vw;
-  max-width: 70px;
-  max-height: 70px;
-}
 @media only screen and (max-width: 600px){
   body{
     background-color: blanchedalmond;
