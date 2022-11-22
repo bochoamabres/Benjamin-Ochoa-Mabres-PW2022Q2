@@ -5,9 +5,9 @@ function add(product, price) {
     console.log(product,price);
     products.push(product);
     total = total + price;
-    document.getElementById("checkout").innerHTML = 'Pagar $ {total}';
+    document.getElementById("checkout").innerHTML = "Total: " +  "$usd" + total;
 }
 
 function pay() {
-    window.alert(products.join(","));
+    window.alert(products.join(",\n"));
 }
